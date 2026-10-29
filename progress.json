@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T19:04:09.394Z",
+  "generated_at": "2026-10-29T01:53:37.657Z",
   "items": {
     "math:31": {
       "kind": "math",
@@ -11,6 +11,17 @@
       "path": "math/0031-regularization-and-generalization",
       "first_solved_at": "2026-10-18T19:04:04.588Z",
       "last_pushed_at": "2026-10-18T19:04:04.588Z"
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-10-29T01:53:36.831Z",
+      "last_pushed_at": "2026-10-29T01:53:36.831Z"
     }
   }
 }
