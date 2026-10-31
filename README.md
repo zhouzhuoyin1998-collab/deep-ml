@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 0 problems · 0 labs · 15 math
+**16** solved · 0 problems · 0 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-10-29 | [solution](math/0001-derivatives-and-gradients) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-10-30 | [solution](math/0005-gradient-descent-updates) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-10-29 | [solution](math/0009-matrix-basics) |
+| [Odds, Log-Odds, and Reading Logistic Coefficients](https://www.deep-ml.com/math-problems/90) | easy | 2026-10-31 | [solution](math/0090-odds-log-odds-and-reading-logistic-coefficients) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-29 | [solution](math/0007-vector-operations) |
 | [Why Minibatches: Gradient Variance vs Batch Size](https://www.deep-ml.com/math-problems/130) | easy | 2026-10-30 | [solution](math/0130-why-minibatches-gradient-variance-vs-batch-size) |
 | [Common Distributions I: Bernoulli, Binomial, Uniform](https://www.deep-ml.com/math-problems/21) | medium | 2026-10-30 | [solution](math/0021-common-distributions-i-bernoulli-binomial-uniform) |

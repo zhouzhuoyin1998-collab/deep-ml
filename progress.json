@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T04:40:35.609Z",
+  "generated_at": "2026-10-31T04:45:19.775Z",
   "items": {
     "math:31": {
       "kind": "math",
@@ -165,6 +165,17 @@
       "path": "math/0040-logistic-regression-as-maximum-likelihood",
       "first_solved_at": "2026-10-31T04:40:35.174Z",
       "last_pushed_at": "2026-10-31T04:40:35.174Z"
+    },
+    "math:90": {
+      "kind": "math",
+      "id": "90",
+      "title": "Odds, Log-Odds, and Reading Logistic Coefficients",
+      "difficulty": "easy",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/90",
+      "path": "math/0090-odds-log-odds-and-reading-logistic-coefficients",
+      "first_solved_at": "2026-10-31T04:45:19.244Z",
+      "last_pushed_at": "2026-10-31T04:45:19.244Z"
     }
   }
 }
