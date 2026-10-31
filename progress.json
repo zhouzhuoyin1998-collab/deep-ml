@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T18:43:10.056Z",
+  "generated_at": "2026-10-31T04:40:35.609Z",
   "items": {
     "math:31": {
       "kind": "math",
@@ -154,6 +154,17 @@
       "path": "math/0021-common-distributions-i-bernoulli-binomial-uniform",
       "first_solved_at": "2026-10-30T18:43:08.834Z",
       "last_pushed_at": "2026-10-30T18:43:08.834Z"
+    },
+    "math:40": {
+      "kind": "math",
+      "id": "40",
+      "title": "Logistic Regression as Maximum Likelihood",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/40",
+      "path": "math/0040-logistic-regression-as-maximum-likelihood",
+      "first_solved_at": "2026-10-31T04:40:35.174Z",
+      "last_pushed_at": "2026-10-31T04:40:35.174Z"
     }
   }
 }
